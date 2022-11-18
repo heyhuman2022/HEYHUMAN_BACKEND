@@ -3,7 +3,7 @@
 This is the backend of HEYHUMANCHAT app using <b>ASP.NET web api</b><br>
 This backend developed in database first approach manner.
 <h2>Frontend </h2>
-Frontend was build using VUE JS 3. <br> Link: https://github.com/NoorMohammadTalukder/Bee-Chat-Frontend
+Frontend was build using VUE JS 3. <br> Link: https://github.com/heyhuman2022/HEYHUMAN_FRONTEND.git
 <h3>Follwed architecturde and principle: </h3>
 <ul>
   <li>3 Tier Architecture</li>
