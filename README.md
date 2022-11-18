@@ -1,6 +1,6 @@
-# Bee-Chat-Backend
+# HEYHUMAN-Chat-Backend
 
-This is the backend of BeeChat app using <b>ASP.NET web api</b><br>
+This is the backend of HEYHUMANCHAT app using <b>ASP.NET web api</b><br>
 This backend developed in database first approach manner.
 <h2>Frontend </h2>
 Frontend was build using VUE JS 3. <br> Link: https://github.com/NoorMohammadTalukder/Bee-Chat-Frontend
